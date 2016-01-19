@@ -1,0 +1,24 @@
+{
+  "name": "ip-to-int",
+  "version": "1.0.0",
+  "description": "Convert an IPv4 address to an integer.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemilburn/ip-to-int.git"
+  },
+  "keywords": [
+    "ipv4",
+    "integer",
+    "convert"
+  ],
+  "author": "Steve Milburn <scmilburn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemilburn/ip-to-int/issues"
+  },
+  "homepage": "https://github.com/stevemilburn/ip-to-int#readme"
+}
